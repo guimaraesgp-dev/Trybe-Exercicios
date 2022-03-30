@@ -79,7 +79,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 9-4: _[Projeto - Carrinho de Compras]()_
 </details>
   
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :white_check_mark:
 <details>
 
 <summary>Bloco 10 ao 18</summary>
@@ -131,7 +131,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 18-1: _[Projeto - App de Receitas]()_
 </details>
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :white_check_mark:
 <details>
 
 <summary>Bloco 19 ao 32</summary>
@@ -223,7 +223,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 32-1: _[Projeto - App de Delivery]()_
 </details>
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação :white_check_mark:
 <details>
 
 <summary>Bloco 33 ao 38</summary>
