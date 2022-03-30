@@ -9,6 +9,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 <summary>Bloco 1 ao 10</summary>
+
 ##### Bloco 1: Introdução - Unix & Shell
 - [X] 1-3: _Fundamentos do Desenvolvimento Web_
 - [X] 1-3: _Introdução - Unix & Shell_
@@ -80,6 +81,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 <details>
+
 <summary>Bloco 10 ao 18</summary>
   
 ##### Bloco 10: Introdução à React
@@ -128,8 +130,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 18: Projeto App de Receitas
 - [ ] 18-1: _[Projeto - App de Receitas]()_
 </details>
+
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 <details>
+
 <summary>Bloco 19 ao 32</summary>
   
 ##### Bloco 19: Docker: Utilizando Containers
@@ -221,6 +225,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Ciência da Computação :hourglass_flowing_sand:
 <details>
+
 <summary>Bloco 33 ao 38</summary>
 ##### Bloco 33: Introdução à Python
 - [ ] 33-1: _Introdução - Ciência da Computação_
