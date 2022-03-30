@@ -1,5 +1,4 @@
 # Trybe-Exercicios
-# Trybe
 
 Este repositório conta todas as atividades de aprendizagem desenvolvidas por [Gabriel Guimarães] enquanto estudo na instituição da [Trybe](https://www.betrybe.com/).
 
