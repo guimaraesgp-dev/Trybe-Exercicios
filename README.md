@@ -1,7 +1,7 @@
 # Trybe-Exercicios
 # Trybe
 
-Este repositório conta todas as atividades de aprendizagem desenvolvidas por [Gabriel Guimarães] enquanto estudo na instituição da [Trybe](https://www.betrybe.com/)
+Este repositório conta todas as atividades de aprendizagem desenvolvidas por [Gabriel Guimarães] enquanto estudo na instituição da [Trybe](https://www.betrybe.com/).
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."_
 
