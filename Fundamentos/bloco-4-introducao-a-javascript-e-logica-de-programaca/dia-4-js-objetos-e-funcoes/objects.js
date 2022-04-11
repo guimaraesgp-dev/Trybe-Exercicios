@@ -23,7 +23,7 @@ delete person.canDrive;
 
 //console.log('Nome: ' + person['firstName']);
 
-console.log(person);
+//console.log(person);
 //console.log(person['child']['age']);
 //console.log(person.child.age]);
 // console.log('Nome: ' + person.firstName);
@@ -31,3 +31,8 @@ console.log(person);
 // console.log('Pode dirigir?: ' + person.canDrive);
 // console.log('Números: ' + person.favoriteNumbers[0]);
 // console.log('Números: ' + person.favoriteNumbers[1]);
+
+for (let key in person){
+    console.log(key);
+    console.log(person[key]);
+}
