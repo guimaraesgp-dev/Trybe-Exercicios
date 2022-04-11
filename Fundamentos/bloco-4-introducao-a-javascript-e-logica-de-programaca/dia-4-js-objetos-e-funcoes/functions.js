@@ -46,3 +46,5 @@ function generateArray (){
 }
 
 console.log(generateArray());
+
+//exemplos
