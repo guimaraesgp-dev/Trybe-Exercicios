@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submeter Palestra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="speker-form-header">
+        <h1>Submeter palestra</h1>
+        <p>
+            <em>Quer participar na nossa conferência? Preencha o formulário!</em>
+        </p>
+    </header>
+
+    <main>
+        <form action="" method="post" class="speker-form">
+            <div class="form-row">
+                <label for="full-name">Nome</label>
+                <input type="text" id="full-name" name="full-name">
+            </div>
+
+            <div class="line-content">
+                <fieldset class="lagacy-form-row">
+                    <legend>Tipo de palestra</legend>
+                    <input type="radio" name="talk-type" value="main-stage" id="talk-type-1"/>
+                    <label for="talk-type-1">Principal</label>
+
+                    <input type="radio" name="talk-type" value="workshop" id="talk-type-2"/>
+                    <label for="talk-type-2">Workshop</label>
+                </fieldset>
+            </div>
+
+            <div class="line-content">
+                <label for="">Tamanho da camiseta:</label>
+                <select name="t-shirt" id="t-shirt">
+                <option value="P">P</option>
+                <option value="m">M</option>
+                <option value="g">G</option>
+                <option value="gg">GG</option>
+              </select>
+            </div>
+            
+            <div class="line-content">
+              <label for="abstract">Resumo da palestra</label>
+              <textarea name="abstract" id="abstract" cols="30" rows="10"></textarea>
+            </div>
+
+            <div class="line-content">
+              <input type="checkbox" name="avalible" id="avalible">
+              <label for="avalible">Confirmo que estou disponível na data do evento</label>
+            </div>
+
+            <div class="line-content">
+              <button>Enviar</button>
+            </div>
+        </form>
+    </main>
+</body>
+</html>
